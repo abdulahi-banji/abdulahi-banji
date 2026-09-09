@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I'm Abdulahi, an aspiring Software and AI Engineer.<br>🔭 Working on: Web and software development projects using Python, javascript, and SQLite.<br>🌱 Currently learning: Full-stack development, data structures & algorithms, and AI applications.<br>🔍 Interested in: Software engineering, AI, and innovative tech solutions.<br>🎓 Education: Pursuing a degree in Computer Science.<br>⚡ Fun Fact: I love watching animes when I'm not coding!!
+👋 Hi, I'm Abdulahi, an aspiring Software and AI Engineer.<br>🔭 Working on: Web and software development projects .<br>🌱 Currently learning: Full-stack development, data structures & algorithms, and AI applications.<br>🔍 Interested in: Software engineering, AI, and innovative tech solutions.<br>🎓 Education: Pursuing a degree in Computer Science.<br>⚡ Fun Fact: I love watching animes when I'm not coding!!
 
 
 # 💻 Tech Stack:
